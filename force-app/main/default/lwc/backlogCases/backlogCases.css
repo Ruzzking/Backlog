@@ -1,0 +1,48 @@
+.aw-header-background{
+    background-color: white;
+    padding-bottom: 5px;
+}
+.aw-filters{
+    width: 200px;
+}
+.aw-is-vip{
+    border-radius: 10px;
+    background-color: #5A1BA9;
+    color: white;
+    width: 30px;
+    text-align: center;
+    height: 15px;
+    font-weight: 600;
+    font-size: 10px;
+    margin-left: 5px;
+    margin-top: 3px;
+}
+.aw-icon-case{
+    margin-top: 8px;
+    margin-right: 9px;
+}
+.aw-col-tittle-1{
+    width: 246px;
+}
+.aw-col-tittle-1sp{
+    width: 246px;
+}
+.aw-col-tittle-2{
+    width: 120px;
+}
+.aw-col-tittle-1 a{
+    padding-left: 45px;
+}
+.aw-search{
+    width: 280px;
+}
+.aw-icon-yellow {
+    --sds-c-icon-color-foreground-default: white;
+    --sds-c-icon-color-foreground: white;
+    --sds-c-icon-color-background-default: #F2CF5B;
+;
+    --sds-c-icon-color-background: #F2CF5B;
+}
+.aw-td{
+    overflow: hidden;
+}
